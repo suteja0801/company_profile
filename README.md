@@ -1,12 +1,28 @@
 # company_profile
 
-++ WEBSITE SAMPAH RUMAH TANGGA ++
+Project Title: Household Waste Sorting Website
 
-Web dibuat menggunakan HTML, CSS & Js berisi tentang informasi pemilahan sampah rumah tangga
+Description:
 
-Install:
+This web-based project was developed using HTML, CSS, and JavaScript. It serves as an educational platform to inform users about effective household waste sorting practices. The site features user-friendly content explaining the categories of waste (organic, inorganic, hazardous, etc.) and provides guidance for proper disposal methods to promote environmental awareness and sustainable living.
 
-Masukan source code ke local web server, then running
+Installation & Setup:
+
+Clone or download the source code to your local web server (e.g., XAMPP, WAMP, or similar).
+
+Launch the server and open the project folder in your browser to run the site.
+
+Modify and enhance the content, visuals, and interactivity to improve its appeal and marketability, especially for showcasing in recruitment portfolios.
+
+Key Features:
+
+Built with clean and responsive front-end code.
+
+Educational content on waste classification.
+
+Simple and intuitive UI for a broad audience.
+
+Easily customizable for different themes or use cases.
 
 Output :
 

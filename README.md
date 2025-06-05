@@ -1,8 +1,8 @@
 # company_profile
 
-WEBSITE SAMPAH RUmah TANGGA
+WEBSITE SAMPAH RUMAH TANGGA
 
-Web ini di buat menggunakan HTML, CSS & Js berisi tentang pemilahan samapah rumah tangga
+Web ini di buat menggunakan HTML, CSS & Js berisi tentang informasi pemilahan sampah rumah tangga
 
 Install:
 
